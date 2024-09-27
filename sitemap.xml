@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://tatban.github.io/</loc>
+  <lastmod>2024-09-27T13:55:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tatban.github.io/aphm_project_page/</loc>
+  <lastmod>2024-09-26T01:08:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatban.github.io/spec-res/</loc>
+  <lastmod>2024-09-26T01:10:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatban.github.io/data/CV_Tathagata_Bandyopadhyay.pdf</loc>
+  <lastmod>2024-09-27T13:55:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatban.github.io/aphm_project_page/Bandyopadhyay_MA_Thesis_Final.pdf</loc>
+  <lastmod>2024-09-26T01:08:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tatban.github.io/aphm_project_page/MA_Presentation_final_Tathagata.pdf</loc>
+  <lastmod>2024-09-26T01:08:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tatban.github.io/spec-res/Spectron_PPT.pdf</loc>
+  <lastmod>2024-09-26T01:10:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

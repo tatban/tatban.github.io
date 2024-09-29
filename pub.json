@@ -37,6 +37,97 @@
 		},
 		"year":"2024",
 		"description":""
+	},
+	{
+		"title":"Semi-Supervised Segmentation of Retinal Lesions using SURF Blob Detector and Locally Adaptive Binarization",
+		"authors":"<b>Tathagata Bandyopadhyay</b>, Jan Kubicek, Marek Penhaker, Juraj Timkovic, David Oczka, Ondrej Krejcar",
+		"link":"https://link.springer.com/chapter/10.1007/978-3-030-14802-7_27",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"ACIIDS, Springer LNAI",
+			"conf_link":"https://aciids.pwr.edu.pl/2019/"
+		},
+		"year":"2019",
+		"description":""
+	},
+	{
+		"title":"A Fast Algorithm for Automatic Segmentation of Pancreas Histological Images for Glucose Intolerance Identification",
+		"authors":"<b>Tathagata Bandyopadhyay</b>, Shyamali Mitra, Sreetama Mitra, Nibaran Das, Luis Miguel Rato, Mrinal Kanti Naskar",
+		"link":"https://link.springer.com/chapter/10.1007/978-981-13-1280-9_29",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"IC3, Springer AISC",
+			"conf_link":"https://link.springer.com/book/10.1007/978-981-13-1280-9"
+		},
+		"year":"2018",
+		"description":""
+	},
+	{
+		"title":"Comparative Analysis of Feature Extraction Techniques in Motor-Imagery EEG Signal Classification",
+		"authors":"Rajdeep Chatterjee, <b>Tathagata Bandyopadhyay</b>, Debarshi Sanyal, Dibyajyoti Guha",
+		"link":"https://link.springer.com/chapter/10.1007/978-981-10-5828-8_8",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"SSIC, Springer SIST",
+			"conf_link":"https://link.springer.com/book/10.1007/978-981-10-5828-8"
+		},
+		"year":"2018",
+		"description":""
+	},
+	{
+		"title":"Dimensionality reduction of EEG signal using fuzzy discernibility matrix",
+		"authors":"Rajdeep Chatterjee, <b>Tathagata Bandyopadhyay</b>, Debarshi Kumar Sanyal, Dibyajyoti Guha",
+		"link":"https://ieeexplore.ieee.org/abstract/document/8005014",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"HSI, IEEE Xplore",
+			"conf_link":"https://ieeexplore.ieee.org/xpl/conhome/7999335/proceeding"
+		},
+		"year":"2017",
+		"description":""
+	},
+	{
+		"title":"Analysis of Pancreas Histological Images for Glucose Intolerance Identification using Wavelet Decomposition",
+		"authors":"<b>Tathagata Bandyopadhyay</b>, Sreetama Mitra, Shyamali Mitra, Luis Rato, Nibaran Das",
+		"link":"https://link.springer.com/book/10.1007/978-981-10-3153-3",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"FICTA, Springer AISC",
+			"conf_link":"https://link.springer.com/chapter/10.1007/978-981-10-3153-3_65"
+		},
+		"year":"2017",
+		"description":""
+	},
+	{
+		"title":"Effects of wavelets on quality of features in motor-imagery EEG signal classification",
+		"authors":"Rajdeep Chatterjee, <b>Tathagata Bandyopadhyay</b>, Debarshi Kumar Sanyal",
+		"link":"https://ieeexplore.ieee.org/abstract/document/7566356",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"WiSPNET, IEEE Xplore",
+			"conf_link":"https://ieeexplore.ieee.org/xpl/conhome/7561562/proceeding"
+		},
+		"year":"2016",
+		"description":""
+	},
+	{
+		"title":"EEG based motor imagery classification using SVM and MLP",
+		"authors":"Rajdeep Chatterjee, <b>Tathagata Bandyopadhyay</b>",
+		"link":"https://ieeexplore.ieee.org/abstract/document/7556809",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"CINE, IEE Xplore",
+			"conf_link":"https://ieeexplore.ieee.org/xpl/conhome/7556634/proceeding"
+		},
+		"year":"2016",
+		"description":""
 	}
 	
 ]

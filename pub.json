@@ -1,0 +1,42 @@
+[
+	{
+		"title":"Learning Neural Parametric Head Models with 2D Adversarial Objectives",
+		"authors":"Tathagata Bandyopadhyay",
+		"link":"https://tatban.github.io/aphm_project_page",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"MSc. Thesis",
+			"conf_link":""
+		},
+		"year":"2024",
+		"description":""
+	},
+	{
+		"title":"Spectron: Target Speaker Extraction using Conditional Transformer with Adversarial Refinement",
+		"authors":"Tathagata Bandyopadhyay",
+		"link":"https://tatban.github.io/spec-res",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"Arxiv",
+			"conf_link":"https://arxiv.org/abs/2409.01352"
+		},
+		"year":"2024",
+		"description":""
+	},
+	{
+		"title":"Validating Semantic Artifacts With Large Language Models",
+		"authors":"Nilay Tufek, Aparna Saissre, Valentin Philipp Just, Fajar J. Ekputra, <br><b>Tathagata Bandyopadhyay</b>, Marta Sabou, Allan Hanbury",
+		"link":"https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770092.pdf",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"ESWC",
+			"conf_link":"https://2024.eswc-conferences.org/"
+		},
+		"year":"2024",
+		"description":""
+	}
+	
+]

@@ -2,7 +2,6 @@ function fetchPubs() {
     let xhttp = new XMLHttpRequest();
     var pubArr;
     var doc_tab = document.getElementById('pubTAB');
-    doc_tab.innerHTML = null;
     xhttp.open("GET", "https://tatban.github.io/pub.json", false)
     xhttp.send(null)
 
@@ -18,7 +17,6 @@ function fetchPubs() {
         if (!conf_link){
             conf_link = "#"
         }
-
         resultHtml += `
         <tr>
             <td class="pubRow">
@@ -29,15 +27,7 @@ function fetchPubs() {
         </tr>
         `
     });
-    console.log(resultHtml);
-    
-    console.log(doc_tab);
     var tbody = document.createElement('tbody');
     tbody.innerHTML = resultHtml;
     doc_tab.appendChild(tbody);
-    //resultHtml += `
-    //</div>
-    //`
-
-    //return resultHtml;
 }

@@ -26,6 +26,19 @@
 		"description":""
 	},
 	{
+		"title":"A new retrieval-augmented generation (RAG) approach for querying and constructing large-scale knowledge graphs",
+		"authors":"Nilay Tufek-Oezkaya, Burak Yigit Uslu, Valentin Philipp Just, <br><b>Tathagata Bandyopadhyay</b>, Aparna Saissre Thuluva, Marta Sabou, Allan Hanbury",
+		"link":"https://www.semantic-web-journal.net/system/files/swj3854.pdf",
+		"thumbnail":"",
+		"published_in":
+		{
+			"conf":"semantic-web-journal",
+			"conf_link":"https://www.semantic-web-journal.net/"
+		},
+		"year":"2024",
+		"description":""
+	},
+	{
 		"title":"Validating Semantic Artifacts With Large Language Models",
 		"authors":"Nilay Tufek, Aparna Saissre, Valentin Philipp Just, Fajar J. Ekputra, <br><b>Tathagata Bandyopadhyay</b>, Marta Sabou, Allan Hanbury",
 		"link":"https://2024.eswc-conferences.org/wp-content/uploads/2024/05/77770092.pdf",
@@ -131,3 +144,4 @@
 	}
 	
 ]
+

@@ -146,10 +146,28 @@ span.highlight {
 }
 
 .noScriptMsg{
-  background-color: #c1d4f5;
+  background-color: #f0f0f0;
   width:85%;
   padding: 20px;
   border-radius: 10px;
   margin: 0 auto;
   font-size: 15px;
+}
+
+#dynamicDiv {
+    background-color: #f0f0f5;       /* Light grey for contrast */
+    color: green; //#e34d20;                  /* Elegant, attention-grabbing but not flashy */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;              /* Smooth rounded corners */
+    font-family:Nunito, Sans-Serif;  /* Clean and modern font */
+    font-size: 1.1em;
+    text-align:justify;
+    width: 65%;
+}
+
+.introText{
+    font-family:Nunito, Sans-Serif;
+    color: #494949;
+    text-align:justify;
 }

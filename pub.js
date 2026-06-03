@@ -38,7 +38,7 @@ function dynamicDiv() {
     if (urlParams.has('p')) {
         const newDiv = document.createElement('div');
         newDiv.id = 'dynamicDiv';
-        newDiv.innerHTML = '⭐ I am currently looking for a <b>PhD position in deep learning</b> topics like generative modelling, multi-modal representation learning, hyperbolic manifolds, 3D reconstruction, training dynamics and so on. Please let me know if there is any such opportunities.⭐';
+        newDiv.innerHTML = '⭐ I am currently looking for a <b>PhD position in deep learning</b> topics like flow / diffusion based generative models, multi-modal representation learning, hyperbolic manifolds, 3D reconstruction, training dynamics and so on. Please let me know if there is any such opportunities.⭐';
         parent.appendChild(newDiv);
     }
 }

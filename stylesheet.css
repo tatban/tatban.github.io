@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #8442f5;
+  color: #386ed3f3;
   text-decoration: none;
 }
 
@@ -168,6 +168,11 @@ span.highlight {
 
 .introText{
     font-family:Nunito, Sans-Serif;
-    color: #494949;
+    color: #242323;
     text-align:justify;
+}
+
+.muted-bold {
+  font-weight: 800;
+  color: #4b4949c0;
 }

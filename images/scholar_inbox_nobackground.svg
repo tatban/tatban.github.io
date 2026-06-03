@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="logo_modern_2_icon.svg"
+   inkscape:export-filename="logo_modern_2_icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:zoom="1.178407"
+     inkscape:cx="497.7058"
+     inkscape:cy="75.525688"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       originx="-18.659602"
+       originy="-16.537093" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1071" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.659606,-16.537094)">
+    <g
+       id="g718"
+       transform="matrix(1.2225726,0,0,1.2225726,-7.2938941,-3.7233233)">
+      <path
+         id="rect3414"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.818238;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="m 29.28185,19.106083 -8.053255,9.097636 h 19.647896 l 3.083533,-3.483508 v 3.559472 l -0.772046,0.86248 -10e-4,9.105904 3.014286,-3.366203 10e-4,-9.106421 -1.081071,1.207679 v -3.574459 l 3.808554,-4.30258 z" />
+      <path
+         id="rect1397"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.52624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 23.78239,30.369047 5.56214,4.205025 c 0.0024,0.0018 0.0049,0.0036 0.0073,0.0053 1.707503,1.260888 1.968522,1.274117 3.278662,0.30029 0.252317,-0.149707 0.44995,-0.30029 0.44995,-0.30029 0.0043,-0.0031 0.0087,-0.0062 0.01308,-0.0092 l 5.623167,-4.20115 z m 15.776509,1.511883 -6.120097,4.572153 -0.01453,0.01114 c -0.01274,0.0098 -0.291616,0.224873 -0.671777,0.450434 -0.388755,0.230661 -0.807998,0.545365 -1.612847,0.545365 -0.804847,0 -1.222149,-0.314706 -1.610908,-0.545365 -0.383267,-0.227401 -0.668857,-0.447936 -0.677105,-0.454309 l -5.863401,-4.432667 v 9.388632 h 16.570663 z"
+         sodipodi:nodetypes="cccccccccccsssccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.8401px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.471005"
+         x="54.876392"
+         y="38.216625"
+         id="text1234-3"><tspan
+           sodipodi:role="line"
+           id="tspan1232"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';stroke-width:0.471005"
+           x="54.876392"
+           y="38.216625" /></text>
+    </g>
+  </g>
+</svg>

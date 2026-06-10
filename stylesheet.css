@@ -170,9 +170,16 @@ span.highlight {
     font-family:Nunito, Sans-Serif;
     color: #242323;
     text-align:justify;
+    margin-bottom: var(--p-gap, 0.8em);
 }
 
 .muted-bold {
   font-weight: 800;
   color: #4b4949c0;
 }
+
+/* View toggle — default state (js enabled) */
+#shortView { display: block; }
+#detailView { display: none; }
+
+/* JS disabled fallback — shown via noscript below */

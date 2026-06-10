@@ -32,6 +32,22 @@ function fetchPubs() {
     doc_tab.appendChild(tbody);
 }
 
+function toggleView(el) {
+    var short = document.getElementById('shortView');
+    var detail = document.getElementById('detailView');
+    if (short.style.display === 'none') {
+        // showing detail -> go back to short
+        short.style.display = 'block';
+        detail.style.display = 'none';
+        el.textContent = 'Read more →';
+    } else {
+        // showing short -> switch to detail
+        short.style.display = 'none';
+        detail.style.display = 'block';
+        el.textContent = 'Show less';
+    }
+}
+
 function dynamicDiv() {
     const urlParams = new URLSearchParams(window.location.search);
     var parent = document.getElementById('dynamic_content');
@@ -42,3 +58,4 @@ function dynamicDiv() {
         parent.appendChild(newDiv);
     }
 }
+

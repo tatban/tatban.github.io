@@ -44,6 +44,8 @@
       <link rel="stylesheet" type="text/css" href="stylesheet.css">
    </head>
    <body>
+      <noscript><style>#shortView{display:none!important}#detailView,#toggleLinkWrap{display:block!important}</style></noscript>
+      <script>document.body.classList.add('js');</script>
       <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
          <tbody>
             <tr style="padding:0px">
@@ -57,13 +59,50 @@
                               <p class="name" style="text-align: left;">
                                  Tathagata Bandyopadhyay
                               </p>
+
+                              <!-- Short view (default visible) -->
+                              <div id="shortView">
+                              <p class="introText" style="font-size:1.27em;font-weight:515;color:#2e7dd9">
+                                 Researcher | Software Engineer | MSc. Informatics (TUM)
+                              </p>
+                              <p class="introText">
+                                 I am a research assistant in the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/">Autonomous Vision Group (AVG)</a> led by <a href="https://www.cvlibs.net/index.php">Prof. Dr. Andreas Geiger</a> at <a href="https://tuebingen.ai/">Tübingen AI Center</a>, <a href="https://uni-tuebingen.de/">University of Tübingen</a>, Germany. I am currently exploring the <b class="muted-bold">underlying dynamics and semantic control of the visual generative (diffusion / flow matching) models.</b>
+                              </p>
+                               <p class="introText">
+                                 👨🏻‍🎓 I completed <b class="muted-bold">M.Sc. in Informatics with distinction</b> from <a href="https://www.tum.de/">Technical University of Munich (TUM), Germany</a> with a focus on <b class="muted-bold">Deep Learning in Visual Computing</b>. I was advised by <a href="https://www.niessnerlab.org/">Prof. Dr. Matthias Niessner</a> from <a href="https://www.niessnerlab.org/">Visual Computing and AI Lab</a> for my <a href="https://tatban.github.io/aphm_project_page/">master's thesis</a> on <b class="muted-bold">3D Neural Parametric Head Models</b>.
+                              </p>
+                              <p class="introText">
+                                 🤖 I love building deep learning solutions with software engineering principles. I have been fortunate to work on a variety of research projects over the years. <b class="muted-bold">These days, I am primarily focused on research at the overlap of:</b>
+                                 <b class="muted-bold">
+                                    <ul class="introText">
+                                       <li>Diffusion / Flow Matching Denoising Dynamics</li>
+                                       <li>Neural Implicit Parametric Models</li>
+                                       <li>Feed-Forward Gaussian Splatting</li>
+                                       <li>Representation Learning for World Models</li>
+                                       <li>Latent Visual / Multi-modal Reasoning</li>
+                                    </ul>
+                                 </b>
+                              </p>
+
+                              <!--<p class="introText">
+                                  Previously, I worked at <a href="https://www.siemens.com/global/en.html">Siemens (Technology R&D)</a> to build a <b>RAG based query framework for large industrial knowledge graphs</b> using LLMs and <a href="https://www.langchain.com/">LangChain</a> followed by a research internship at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems, Tübingen</a>, where I developed a <b>video quality analyzer tool</b> using <a href="https://opencv.org/">OpenCV</a>, <a href="https://www.ffmpeg.org/">ffmpeg</a>, <a href="https://docs.ultralytics.com/">YOLO</a> and vision language models like <a href="https://github.com/openai/CLIP">CLIP</a>.
+                              </p>-->
+
+                              <!--<p class="introText">
+                                 <b>Topics of interest:</b><br>
+                                 Multi-modal understanding, latent representation learning, hyperbolic deep learning, 3D reconstruction, sparse gaussian splatting, autoencoders, diffusion models, GANs, large language models, transformers, topological deep learning, brain computer interface.
+                              </p>-->
+                              </div><!-- end shortView -->
+
+                              <!-- Detail view (hidden by default) -->
+                              <div id="detailView">
                               <p class="introText" style="font-size:1.27em;font-weight:515;color:#2e7dd9">
                                  Researcher | Software Engineer | MSc. Informatics (TUM)
                               </p>
                               <p class="introText">
                                  I am a research assistant in the <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/home/">Autonomous Vision Group (AVG)</a> led by <a href="https://www.cvlibs.net/index.php">Prof. Dr. Andreas Geiger</a> at <a href="https://tuebingen.ai/">Tübingen AI Center</a>, <a href="https://uni-tuebingen.de/">University of Tübingen</a>, Germany. I am currently exploring the <b class="muted-bold">underlying dynamics of the visual generative (diffusion / flow matching) models</b> with a focus on understanding how the visual semantic concepts emerge, evolve and interact throughout the denoising trajectory.
                               </p>
-                              <p class="introText">
+                              <p class="introText collapsible-full">
                                  📚 Additionally, I work as a part-time research engineer at <a href="https://www.scholar-inbox.com/">Scholar-Inbox</a>, a free community driven and <b class="muted-bold">AI powered personalized research paper recommender system</b> developed by the researchers for the researchers.
                               </p>
                                <p class="introText">
@@ -85,7 +124,7 @@
                               <!--<p class="introText">
                                   Previously, I worked at <a href="https://www.siemens.com/global/en.html">Siemens (Technology R&D)</a> to build a <b>RAG based query framework for large industrial knowledge graphs</b> using LLMs and <a href="https://www.langchain.com/">LangChain</a> followed by a research internship at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems, Tübingen</a>, where I developed a <b>video quality analyzer tool</b> using <a href="https://opencv.org/">OpenCV</a>, <a href="https://www.ffmpeg.org/">ffmpeg</a>, <a href="https://docs.ultralytics.com/">YOLO</a> and vision language models like <a href="https://github.com/openai/CLIP">CLIP</a>.
                               </p>-->
-                              
+
                               <!--<p class="introText">
                                  <b>Topics of interest:</b><br>
                                  Multi-modal understanding, latent representation learning, hyperbolic deep learning, 3D reconstruction, sparse gaussian splatting, autoencoders, diffusion models, GANs, large language models, transformers, topological deep learning, brain computer interface.
@@ -93,6 +132,11 @@
                               <p class="introText">
                                  📻 In my spare time, I occasionally experiment with radio communication and off-grid decentralized mesh networking systems, mostly out of curiosity and for the fun of understanding how they work.
                               </p>
+                              </div><!-- end detailView -->
+
+                              <!-- Toggle link -->
+                              <div id="toggleLinkWrap" style="text-align:left;margin:4px 0;"><span style="color:#888;font-size:0.95em;"><a id="toggleLink" href="javascript:void(0)" onclick="toggleView(this)" style="color:#a0a9b8;text-decoration:none;font-size:0.95em;">Read more →</a></span></div>
+
                               <p style="text-align:center;font-family:Lato">
                                  <a href="mailto:gata.tatha14@gmail.com">Email</a> &nbsp;/&nbsp;
                                  <a href="data/CV_Bandyopadhyay_Tathagata_.pdf">CV</a> &nbsp;/&nbsp;
